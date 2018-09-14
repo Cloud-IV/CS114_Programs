@@ -11,3 +11,6 @@ Animation.java is modified from a given graphical program where a spaceship is a
 Originally, the given program only allowed the spaceship to shoot one missile at a time. I modified the program and implemented a
 FIFO-based circular queue so the spaceship could shoot any number of missiles (up to a limit), with each missile's position and velocity
 being recalculated each time a new missle was introduced into the queue.
+
+BinarySearchTree.java is an implementation of a binary search tree (BST) built from the ground-up, and includes some manipulations of a
+BST, such as traversing the tree, finding the deepest node in the tree, and cloning the tree.
