@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // BinarySearchTree.java
-// Author: Abrar Rouf (modified from given BinarySearchTree2.java)
+// Author: Abrar Rouf (modified from given BinarySearchTree2.java [Author: Wallace Rutkowski])
 // Defines binary search tree using a Node class. Includes insert, delete, display and getSuccessor methods.
 //----------------------------------------------------------------------------------------------------------------------
 
