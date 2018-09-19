@@ -14,3 +14,5 @@ being recalculated each time a new missle was introduced into the queue.
 
 BinarySearchTree.java is an implementation of a binary search tree (BST) built from the ground-up, and includes some manipulations of a
 BST, such as traversing the tree, finding the deepest node in the tree, and cloning the tree.
+
+Other programs not listed above are do not deal with data structures or algorithms, but are still representative of my understanding of Java.
